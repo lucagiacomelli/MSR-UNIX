@@ -4,6 +4,6 @@ Messaging Service Remote UNIX: Implementation in C language of a service exchang
 # How to run the code
 To run the code follow the steps:
 1) Clone the repository;
-2) Compile the server from terminal with the command gcc Server/Server.c -o server
-3) Start the server from terminal with the command ./server
+2) Compile the server from terminal with the command 'gcc Server/Server.c -o server'
+3) Start the server from terminal with the command './server'
 4) Compile and start different Client.c in the same way.
